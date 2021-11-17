@@ -1,0 +1,18 @@
+{
+  "name": "dbsong",
+  "version": "1.0.0",
+  "description": "data json songs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "05092000"
+  ],
+  "author": "ta",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
